@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Dupa",
+      "description": "Siemka",
+      "id": 1
+    },
+    {
+      "title": "NOT STREAM",
+      "description": "Not created by user",
+      "id": 2
+    },
+    {
+      "title": "my stream",
+      "description": "stream was created by me",
+      "uid": "107611610903015568091",
+      "id": 3
+    },
+    {
+      "title": "New Pragmmatic Nav",
+      "description": "Test",
+      "uid": "107611610903015568091",
+      "id": 4
+    },
+    {
+      "title": "testRefactor",
+      "description": "testowanko",
+      "uid": "107611610903015568091",
+      "id": 5
+    }
+  ]
+}
